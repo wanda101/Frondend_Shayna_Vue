@@ -1,0 +1,13 @@
+jalankan vue ui
+1. buka terminal dan masukan 
+vue ui
+- pilih vue manager proyek
+- pilih buat
+- masuk plugin
+- tambahkan add vue-router
+- untuk menjalankan masuk ke tugas->jalankan tugas
+- klik buka aplikasi
+
+2. copy semua assets yaitu css,font,img kedalam folder public
+	- copy semua style ke dalam file public/index.html
+	- instal carousel masuk ke dependencies/pasang dependencis cari vue-owl-carousel
